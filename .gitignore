@@ -121,3 +121,4 @@ server/node_modules
 worker/node_modules
 worker/package-lock.json
 server/package-lock.json
+.DS_Store
