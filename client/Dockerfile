@@ -10,7 +10,7 @@ COPY . .
 
 RUN ["npm","run","build"]
 
-FROM nginx
+FROM nginx:1.21
 
 EXPOSE 3000
 
